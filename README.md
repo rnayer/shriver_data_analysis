@@ -20,6 +20,10 @@ It calculates **Disproportionality Indices (DI)** and examines patterns of foste
 ## Purpose  
 This project provides **evidence-based insights** for policymakers and advocates to better understand **systemic inequities in child welfare**. By leveraging data-driven research, it supports informed decision-making to reduce these disparities.  
 
+## Data Confidentiality  
+🚨 **Important Notice:**  
+The datasets used in this project contain **confidential information** and are **not included in this repository**. Access to the data is restricted, and users must obtain permissions from the original source to reproduce the analysis.  
+
 ## Code and Documentation  
 - The R code includes **detailed annotations** to guide users through:  
   - Data cleaning  
